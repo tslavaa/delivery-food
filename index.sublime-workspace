@@ -1,0 +1,807 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"cart",
+				"cartButton"
+			],
+			[
+				"wd",
+				"width\tproperty"
+			],
+			[
+				"rb",
+				"rgba()\tbackground"
+			],
+			[
+				"back",
+				"background\tproperty"
+			],
+			[
+				"border",
+				"border-bottom\tproperty"
+			],
+			[
+				"mn",
+				"min-height\tproperty"
+			],
+			[
+				"no",
+				"nowrap\twhite-space"
+			],
+			[
+				"text-",
+				"text-overflow\tproperty"
+			],
+			[
+				"bac",
+				"background\tproperty"
+			],
+			[
+				"bor",
+				"border-bottom\tproperty"
+			],
+			[
+				"alin",
+				"align-items\tproperty"
+			],
+			[
+				"inl",
+				"inline-block\tdisplay"
+			],
+			[
+				"in",
+				"inline-block\tdisplay"
+			],
+			[
+				"pad",
+				"padding\tproperty"
+			],
+			[
+				"co",
+				"cover\tobject-fit"
+			],
+			[
+				"obj",
+				"object-fit\tproperty"
+			],
+			[
+				"ove",
+				"overflow\tproperty"
+			],
+			[
+				"padd",
+				"padding-bottom\tproperty"
+			],
+			[
+				"space",
+				"space-between\tjustify-content"
+			],
+			[
+				"box",
+				"box-shadow\tproperty"
+			],
+			[
+				"pa",
+				"padding\tproperty"
+			],
+			[
+				"li",
+				"link\tTag"
+			],
+			[
+				"ba",
+				"background-repeat"
+			],
+			[
+				"box-s",
+				"box-sizing\tproperty"
+			],
+			[
+				"butt",
+				"button-text"
+			],
+			[
+				"bck",
+				"background-image\tproperty"
+			],
+			[
+				"count",
+				"countArray"
+			],
+			[
+				"coun",
+				"countArray"
+			],
+			[
+				"new",
+				"newBlock"
+			],
+			[
+				"u",
+				"updateCallback"
+			],
+			[
+				"form",
+				"form-group"
+			],
+			[
+				"ima",
+				"imageStyles"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"subCa",
+				"subCatalogHeader"
+			],
+			[
+				"ad",
+				"addEventListener"
+			],
+			[
+				"catalo",
+				"catalogList"
+			],
+			[
+				"btn",
+				"btnClose"
+			],
+			[
+				"max-",
+				"max-width\tproperty"
+			],
+			[
+				"nu",
+				"numberOfDaysInMonth2"
+			],
+			[
+				"num",
+				"numberOfDaysInMonth"
+			],
+			[
+				"s",
+				"src\tAttr"
+			],
+			[
+				"tranf",
+				"transform-origin\tproperty"
+			],
+			[
+				"tran",
+				"transform-style\tproperty"
+			],
+			[
+				"he",
+				"height\tproperty"
+			],
+			[
+				"text-al",
+				"text-align\tproperty"
+			],
+			[
+				"col",
+				"color\tproperty"
+			],
+			[
+				"tex",
+				"text-decoration\tproperty"
+			],
+			[
+				"te",
+				"text-transform\tproperty"
+			],
+			[
+				"wor",
+				"word-spacing\tproperty"
+			],
+			[
+				"margin",
+				"margin-top\tproperty"
+			],
+			[
+				"font",
+				"font-family\tproperty"
+			],
+			[
+				"head",
+				"header\tTag"
+			],
+			[
+				"ma",
+				"margin\tproperty"
+			],
+			[
+				"con",
+				"contact"
+			],
+			[
+				"spa",
+				"space-between\tjustify-content"
+			],
+			[
+				"mar",
+				"margin-top\tproperty"
+			],
+			[
+				"marin",
+				"margin-top\tproperty"
+			],
+			[
+				"align-",
+				"align-items\tproperty"
+			],
+			[
+				"padding",
+				"padding-top"
+			],
+			[
+				"a",
+				"auto\tmargin"
+			],
+			[
+				"ali",
+				"align-items\tproperty"
+			],
+			[
+				"max",
+				"max-width\tproperty"
+			],
+			[
+				"box-",
+				"box-sizing\tproperty"
+			],
+			[
+				"flex",
+				"flex-wrap\tproperty"
+			],
+			[
+				"proj",
+				"projects"
+			],
+			[
+				"re",
+				"required\tAttr"
+			],
+			[
+				"ac",
+				"accesskey\tAttr"
+			],
+			[
+				"fle",
+				"flex-start\tjustify-content"
+			],
+			[
+				"backg",
+				"background-image\tproperty"
+			],
+			[
+				"ro",
+				"row-reverse\tflex-direction"
+			],
+			[
+				"me",
+				"meta\tTag"
+			],
+			[
+				"sp",
+				"space-between\tjustify-content"
+			],
+			[
+				"fl",
+				"flex-start\talign-items"
+			],
+			[
+				"rever",
+				"row-reverse\tflex-direction"
+			],
+			[
+				"wid",
+				"width\tproperty"
+			],
+			[
+				"di",
+				"display\tproperty"
+			],
+			[
+				"marg",
+				"margin-bottom\tproperty"
+			],
+			[
+				"fon",
+				"font-family\tproperty"
+			],
+			[
+				"w",
+				"width\tproperty"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 5304,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "restaurant.html",
+			"settings":
+			{
+				"buffer_size": 8490,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "js/main.js",
+			"settings":
+			{
+				"buffer_size": 317,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "css/main.css",
+			"settings":
+			{
+				"buffer_size": 8488,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"menu",
+				"View: Toggle Menu"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"pac",
+				"Install Package Control"
+			],
+			[
+				"",
+				"Bookmarks: Select Next"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 157.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/1/Desktop/Delivery",
+		"/C/Users/1/Desktop/Delivery/css"
+	],
+	"file_history":
+	[
+		"/C/Users/1/Desktop/arrays2.js",
+		"/C/Users/1/Desktop/index/main.css",
+		"/C/Users/1/Desktop/Delivery/restaurant.html",
+		"/C/Users/1/Desktop/Delivery/index.html",
+		"/C/Users/1/Desktop/Delivery/css/main.css",
+		"/C/Users/1/Desktop/index/index.html",
+		"/C/Users/1/Desktop/Delivery/css/normalize.css",
+		"/C/Users/1/Desktop/movie/fonts.css",
+		"/C/Users/1/Desktop/Delivery/main.css",
+		"/C/Users/1/Desktop/movie/main.css",
+		"/C/Users/1/Desktop/movie/index.html",
+		"/C/Users/1/Desktop/тест/aida/index.html",
+		"/C/Users/1/Desktop/recursion.js",
+		"/C/Users/1/Desktop/js-constructor/src/styles/main.css",
+		"/C/Users/1/Desktop/js-constructor/src/utils.js",
+		"/C/Users/1/Desktop/js-constructor/src/classes/sidebar.js",
+		"/C/Users/1/Desktop/js-constructor/src/classes/site.js",
+		"/C/Users/1/Desktop/js-constructor/src/classes/app.js",
+		"/C/Users/1/Desktop/js-constructor/src/index.js",
+		"/C/Users/1/Desktop/js-constructor/src/index.html",
+		"/C/Users/1/Desktop/test/src/classes/blocks.js",
+		"/C/Users/1/Desktop/test/src/classes/sidebar.js",
+		"/C/Users/1/Desktop/test/src/classes/app.js",
+		"/C/Users/1/Desktop/js-constructor/src/model.js",
+		"/C/Users/1/Desktop/js-constructor/src/classes/blocks.js",
+		"/C/Users/1/Desktop/js-constructor/src/templates.js",
+		"/C/Users/1/Desktop/js-constructor/package.json",
+		"/C/Users/1/Desktop/test/src/utils.js",
+		"/C/Users/1/Desktop/test/src/model.js",
+		"/C/Users/1/Desktop/js-constructor/dist/src.7dd296f4.js",
+		"/C/Users/1/Desktop/js-constructor/dist/main.af46ece4.js",
+		"/C/Users/1/Desktop/js-constructor/package.json.lnk",
+		"/C/Users/1/Desktop/ikea/script/generateSubCatalog.js",
+		"/C/Users/1/Desktop/ikea/script/generateCatalog.js",
+		"/C/Users/1/Desktop/ikea/script/generateFooter.js",
+		"/C/Users/1/Desktop/ikea/script/generateHeader.js",
+		"/C/Users/1/Desktop/ikea/script/script.js",
+		"/C/Users/1/Desktop/ikea/styles/styles.css",
+		"/C/Users/1/Desktop/ikea/card.html",
+		"/C/Users/1/Desktop/ikea/cart.html",
+		"/C/Users/1/Desktop/ikea/goods.html",
+		"/C/Users/1/Desktop/ikea/index.html",
+		"/C/Users/1/Desktop/Новая папка/script/script.js",
+		"/C/Users/1/Desktop/Новая папка/cart.html",
+		"/C/Users/1/Desktop/Новая папка/goods.html",
+		"/C/Users/1/Desktop/Новая папка/index.html",
+		"/C/Users/1/Desktop/Новая папка/styles/styles.css",
+		"/C/Users/1/Desktop/Новая папка/card.html",
+		"/C/Users/1/Desktop/тест js/switch.js",
+		"/C/Users/1/Desktop/тест js/for.js",
+		"/C/Users/1/Desktop/тест js/function.js",
+		"/C/Users/1/Desktop/тест js/object.js",
+		"/C/Users/1/Desktop/debugging7.js",
+		"/C/Users/1/Desktop/debugging6.js",
+		"/C/Users/1/Desktop/debugging5.js",
+		"/C/Users/1/Desktop/debugging4.js",
+		"/C/Users/1/Desktop/debugging3.js",
+		"/C/Users/1/Desktop/debugging2.js",
+		"/C/Users/1/Desktop/debugging1.js",
+		"/C/Users/1/Desktop/for.js",
+		"/C/Users/1/Desktop/Новая папка/script.js",
+		"/C/Users/1/Desktop/11/script.js",
+		"/C/Users/1/Desktop/11/index.html",
+		"/C/Users/1/Desktop/object.js",
+		"/C/Users/1/Desktop/switch.js",
+		"/C/Users/1/Desktop/if.js",
+		"/C/Users/1/Desktop/тест/index/css/index.css",
+		"/C/Users/1/Desktop/index/fonts.css",
+		"/C/Users/1/Desktop/тест/Верстка/index.html",
+		"/C/Users/1/Desktop/тест/index1/projects.html",
+		"/C/Users/1/Desktop/тест/index/index.html",
+		"/C/Users/1/Desktop/тест/index1/main.css",
+		"/C/Users/1/Desktop/тест/Верстка/css/main.css",
+		"/C/Users/1/Desktop/тест/slava/slava.html",
+		"/C/Users/1/Desktop/тест/slava/css/slava.css",
+		"/C/Users/1/Desktop/тест/Project дз Вячеслав/index.html",
+		"/C/Users/1/Desktop/тест/aida/main.css",
+		"/C/Users/1/Desktop/тест/aida/fonts.css",
+		"/C/Users/1/Desktop/тест/index1/index.html",
+		"/C/Users/1/Desktop/тест/index.html",
+		"/C/Users/1/Desktop/Новая папка/main.css",
+		"/C/Users/1/Desktop/index/contact.html",
+		"/C/Users/1/Desktop/index/projects.html",
+		"/C/Users/1/Desktop/index/blog.html",
+		"/C/Users/1/Desktop/index/home.html",
+		"/C/Users/1/Desktop/тест/index/projects.html",
+		"/C/Users/1/Desktop/function.js",
+		"/C/Users/1/Desktop/index/img/3.jpg",
+		"/C/Users/1/Desktop/first_header.js",
+		"/C/Users/1/Desktop/тест/Website Gaziza/style.css",
+		"/C/Users/1/Desktop/тест/Website Gaziza/website.html",
+		"/C/Users/1/Desktop/aida/fonts.css",
+		"/C/Users/1/Desktop/aida/main.css",
+		"/C/Users/1/Desktop/aida/index.html",
+		"/C/Users/1/Desktop/index/css/responsive.css",
+		"/C/Users/1/Desktop/index/css/index.css",
+		"/C/Users/1/AppData/Local/Temp/Rar$DR06.761/index/projects.html",
+		"/C/Users/1/Desktop/Верстка/css/main.css",
+		"/C/Users/1/Desktop/Верстка/index.html",
+		"/C/Users/1/Desktop/slava/js/script.js",
+		"/C/Users/1/Desktop/slava/css/slava.css",
+		"/C/Users/1/Desktop/slava/projects.html",
+		"/C/Users/1/Desktop/slava/slava.html",
+		"/C/Users/1/Desktop/Макет/index.css",
+		"/C/Users/1/Desktop/Макет/index.html",
+		"/C/Users/1/Desktop/222.css",
+		"/C/Users/1/AppData/Roaming/Sublime Text 3/Packages/User/JavaScript.sublime-build",
+		"/C/Users/1/Desktop/222.html",
+		"/C/Users/1/Desktop/333.html",
+		"/C/Users/1/Desktop/slava/slava.css",
+		"/C/Users/1/Desktop/Project дз Вячеслав/style/footer.css",
+		"/C/Users/1/Desktop/googleindex.html",
+		"/C/Users/1/Desktop/тест/index2.html",
+		"/C/Users/1/Desktop/index.html",
+		"/C/Users/1/Desktop/Website Gaziza/style.css",
+		"/C/Users/1/Desktop/Website Gaziza/website.html",
+		"/C/Users/1/Desktop/slavawebsite.css",
+		"/C/Users/1/Desktop/slavawebsite.html",
+		"/C/Users/1/Desktop/8daea8d4ef888366f2f6ea199c2c9683.html",
+		"/C/Users/1/Desktop/19f7c36279fcda01cb40fbf9408e6fc5.html",
+		"/C/Users/1/Desktop/Project/style/footer.css",
+		"/C/Users/1/Desktop/Project/style/index.css",
+		"/C/Users/1/Desktop/Project/index.html",
+		"/C/Users/1/Desktop/Project/style/header.css",
+		"/C/Users/1/Desktop/Project/style/main.css",
+		"/C/Users/1/Desktop/Project/style/reset.css",
+		"/C/Users/1/Desktop/тест/style.css",
+		"/C/Users/1/Desktop/index1.html"
+	],
+	"find":
+	{
+		"height": 40.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5304,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "restaurant.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 8490,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								870,
+								870
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 120.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "js/main.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 317,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								247,
+								247
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 3,
+					"file": "css/main.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 8488,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								5017,
+								4990
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 5805.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 31.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.5,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 126.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/User/JavaScript.sublime-build",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 58.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
